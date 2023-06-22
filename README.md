@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
+![e9c6ec80-8902-11eb-9f55-5de819da8bf5](https://github.com/geohot/tinygrad/assets/121839653/28c46fb6-fd8f-4ccd-bfa6-31039b8f1106)
 
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
 
