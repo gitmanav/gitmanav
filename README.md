@@ -32,7 +32,7 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
 - 🔭 Simultaneously exploring <b>Web3</b>
 - 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me at : **akankush2000@gmail.com** && **ankush@mackph.com**
+- 📫 Reach me at : **manavaggarwal800@gmail.com** && **manavaggarwal640@gmail.com**
 - ⚡ Fun fact: I love designing and travelling to explore new places.
 - ❤️ Building a community to make an impact by training new generations on cutting edge \
 technologies to meet future requirements.</br>
@@ -59,10 +59,10 @@ technologies to meet future requirements.</br>
    <summary>📃 Resume</summary>
 
  ## Education
- - 📍 **Uttarakhand Technical University**-----------------------**< 2019-2023 >**\
+ - 📍 **Dev Bhoomi Uttarakhand University**-----------------------**< 2022-2026 >**\
  📖**Bachelor's of technology-< Information Technology >**
  
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2017-2019 >**\
+ - 📍 **Shri Guru Ram Rai Public School, Dehradun**------------------**< 2017-2019 >**\
    📖**Senior Secondary Schooling-< Intermediate Science >**
  
  - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2012-2017 >**\
