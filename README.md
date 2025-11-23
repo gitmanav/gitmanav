@@ -21,8 +21,8 @@ I’m currently pursuing **B.Tech in Computer Science and Engineering** from **D
 
 ## 📊 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&labelColor=black&logo=leetcode&logoColor=orange)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks&logoColor=darkgreen)](https://www.geeksforgeeks.org/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&labelColor=black&logo=leetcode&logoColor=orange)]([https://leetcode.com/](https://leetcode.com/u/Manavaggarwal/))
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks&logoColor=darkgreen)]([https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/user/manavaggairh3/))
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&labelColor=white&logo=hackerrank&logoColor=green)](https://hackerrank.com)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&labelColor=white&logo=kaggle&logoColor=blue)](https://kaggle.com)
 
@@ -85,7 +85,7 @@ GPA: **8.86 / 10**
 ## 📫 Connect with Me  
 <p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/manav-aggarwal-66ba99264/))
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gitmanav)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
 [![Medium](https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white)]()
